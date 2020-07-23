@@ -1,0 +1,775 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Senior Data Scientist,$86K-$137K (Glassdoor est.),"GEICO’s Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
+
+As a Senior Data Scientist, you will serve as a technical and thought leader on this diverse and highly skilled team. You will design and develop inventive solutions to drive innovation and delivery of organizational value. You’ll synthesize large datasets and solve complex problems through the use of advanced machine learning and statistical modeling. You’ll work in a highly collaborative, team environment, guiding and mentoring junior data scientists and collaborating with multiple stakeholders. You will assist management in the communication of insights and the implementation of impactful data science solutions across the organization.
+
+Expected Qualifications:
+
+Advanced degree in a quantitative discipline, such as statistics, data science, computer science, mathematics, engineering, physics, etc.
+4 years of experience in designing, developing, evaluating, and deploying predictive modeling, machine learning, advanced analytics
+Deep understanding and experience with advanced statistics and modern machine learning predictive techniques, including GLMs, decision trees, forests, boosted ensembles, neural networks, deep learning, and graph analytics.
+Superior coding skills using common data science tools, including Python (strongly preferred), R, Linux/Unix command line and shell scripting.
+Excellent skill and significant experience in data processing using SQL, Hive, Impala, Spark, or equivalent querying language
+Strong experience with distributed storage and big data computing technology, such as AWS, Hadoop, or Spark
+Excellent communication skills and experience in working with stakeholders
+Passion for extracting hidden insights and building machine learning systems that enhance business outcomes
+Note: The safety of our associates, both current and future, is GEICO’s highest priority. At this time, most of our associates are working remotely due to the current COVID-19 pandemic. Candidates who are selected for this position will be trained remotely and must be able to work from home in a designated work area. Once GEICO determines it is safe for associates to return to the office, candidates may be required to work in our Chevy Chase, MD office.
+
+About GEICO
+For more than 75 years, GEICO has stood out from the rest of the insurance industry! We are one of the nation's largest and fastest-growing auto insurers thanks to our low rates, outstanding service and clever marketing. We're an industry leader employing thousands of dedicated and hard-working associates. As a wholly owned subsidiary of Berkshire Hathaway, we offer associates training and career advancement in a financially stable and rewarding workplace.
+
+Our associates' quality of life is important to us. Full-time GEICO associates are offered a comprehensive Total Rewards Program*, including:
+
+401(k) and profit-sharing plans
+Medical, dental, vision and life insurance
+Paid vacation, holidays and leave programs
+Tuition reimbursement
+Associate assistance program
+Flexible spending accounts
+Business casual dress
+Fitness and dining facilities (at most locations)
+Associate clubs and sports teams
+Volunteer opportunities
+Benefit offerings for positions other than full-time may vary.
+GEICO is an equal opportunity employer. GEICO conducts drug screens and background checks on applicants who accept employment offers.
+
+How to Apply
+
+Click ""Apply for Job"" to complete your application. You will need an active email address and phone number. Please upload your resume, preferably as Word .doc files or PDF. Once you begin your application you can save it and access it later. Your application should include any work and/or internship experience from at least the past five years.
+
+#LI-JW1
+
+#DI-JW",3.3,"GEICO
+3.3","Chevy Chase, MD","Washington, DC",10000+ employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),-1
+Sr Data Scientist,$86K-$137K (Glassdoor est.),"JOB DUTIES:Senior Data Scientist for Ecolab, Inc. at its facility in Naperville, IL. Actively engage with internal business stakeholders to understand business challenges and deliver robust, data driven solutions. Integrate inputs from subject matter experts with statistical, mathematical, predictive modeling and business analysis skills to manage and manipulate complex high-volume data from a variety of sources. Validate proof of concept (POCs) by analyzing organizational data and present insights to determine the potential to be taken up as a full-scale funded analytics project. Collaborate closely with Business Partners/Analysts, Data Engineers, System Administrators and other Data Scientists to develop and integrate innovative AI/ML models into useable data products and services. Leverage open source tools like Python along with Microsoft Azure cloud based big data/AI environments to implement scalable predictive/prescriptive models. Present the results of your work to all levels within the organization, offering actionable real-time insights that have a measurable and ongoing impact on business. Partner with customers and leading digital companies to leverage cutting edge technology (machine learning, streaming analytics and real big data) to creatively solve problems and disrupt existing business models.
+
+REQUIREMENTS: Masters degree in Data Science, Business Analytics, Math, Statistics or related field with an emphasis on analytics and four (4) years of experience working and participating on a cross functional project team, from inception to delivery. Experience must also include two (2) years of post-bachelors progressive experience in all of the following: Deliver data-driven solutions by applying problem-solving and analytics to business challenges; Articulate & present complex mathematical solutions in a simple manner that most will understand; Use statistics/analytics/visualization tools, including Microsoft Azure Suite, Azure ML, PowerBI, Python and SQL; Manipulate complex high-volume data from a variety of sources using statistical, mathematical, predictive modeling and business analysis.
+
+EX: OUT
+
+Our Commitment to Diversity and Inclusion
+
+At Ecolab, we believe the best teams are diverse and inclusive, and we are on a journey to create a workplace where every associate can grow and achieve their best. We are committed to fair and equal treatment of associates and applicants. We recruit, hire, promote, transfer and provide opportunities for advancement on the basis of individual qualifications and job performance. In all matters affecting employment, compensation, benefits, working conditions, and opportunities for advancement, we will not discriminate against any associate or applicant for employment because of race, religion, color, creed, national origin, citizenship status, sex, sexual orientation, gender identity and expressions, genetic information, marital status, age, disability, or status as a covered veteran.
+
+In addition, we are committed to furthering the principles of Equal Employment Opportunity (EEO) through Affirmative Action (AA). Our goal is to fully utilize minority, female, disabled and covered veteran individuals at all levels of the workforce. Ecolab is a place where you can grow your career, own your future and impact what matters.
+
+We will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles Fair Chance Initiative for Hiring Ordinance and the San Francisco Fair Chance Ordinance.",3.6,"Ecolab
+3.6","Naperville, IL","Saint Paul, MN",10000+ employees,1923,Company - Public,Chemical Manufacturing,Manufacturing,$10+ billion (USD),-1
+Associate Scientist,$86K-$137K (Glassdoor est.),"Associate Scientist, Assay Development
+
+Position Summary
+
+Adverum is looking for an Associate Scientist with knowledge of chromatography to join our team in our Redwood City office. This position reports to an Associate Director. This person will be working with Assay Development, QC, and Process Development. This role is responsible for developing, qualifying, transferring, and troubleshooting chromatography-based assays in support of product characterization/release and bioanalysis.
+
+What You’ll Do
+Design, develop, qualify, troubleshoot, and transfer chromatography-based assays to internal and external scientists.
+Apply separation sciences to the characterization of vector particles in support of empty/full and aggregation determinations.
+Participate in decisions on experimental approaches and interpretation of data.
+Work collaboratively with different research and development departments to evaluate and implement new assay formats and/or technologies.
+Perform internal sample analysis as needed in support of product characterization and preclinical studies.
+Transfer assays to and oversee work at Contract Research Organizations and in the QC group.
+Maintain current knowledge of regulatory requirements for bioanalytical and product characterization assays
+Write test procedures, documented standard test methods, SOPs, protocols, and technical reports.
+Present project status updates in internal and external forums.
+Maintain excellent documentation of laboratory activities.
+May supervise junior lab personnel.
+Other responsibilities may be assigned as needed
+About You
+Minimum of a biological science or similar Bachelor’s degree with 15 years’ experience in a biotech company, or a Master’s degree with 10 years’ experience, or an equivalent combination of education and experience
+Experience in assay development is required
+Ability to read and extract information from published literature and internal reports is required.
+Expertise is required in HPLC and CE methods such as reversed-phased HPLC, size-exclusion HPLC, ion-exchange HPLC, affinity HPLC, CE-SDS, FFF-MALS, UPLC, and cIEF).
+Knowledge of LCMS is strongly desired
+Knowledge of analytical ultracentrifugation is strongly desired.
+Experience in the qualification/validation of quantitative assays and knowledge of FDA requirements is strongly desired.
+Broad knowledge of protein, cell, or nucleic acid assay methods and biochemistry with application to gene therapy is strongly desired.
+Background in the area of retinal or genetic diseases is desired, with an understanding of AAV biology a plus.
+Must be a self-starter, proactive, co-operative, and proficient at working both independently and in a small team environment.
+Proven initiative and demonstrated accountability in a fast-paced environment with high degree of flexibility.
+Detail oriented and with time management skills
+Excellent verbal and written communication skills.
+Experience in presenting data through written reports and oral presentation; publication in a peer-reviewed journal or presentation at a conference is desired.
+Proficiency with SoftMaxPro, GraphPad Prism, JMP and other common analytical software desired.
+Proficient with MS Office and other common office software.
+About Us
+
+Adverum is a clinical-stage gene therapy company targeting unmet medical needs in ophthalmology and rare diseases. Adverum develops gene therapy product candidates designed to provide durable efficacy by inducing sustained expression of a therapeutic protein. Adverum’s core capabilities include clinical development, novel vector discovery and in-house manufacturing expertise, specifically in scalable process development, assay development, and current Good Manufacturing Practices quality control.",3.2,"Adverum
+3.2","Redwood City, CA","Redwood City, CA",51 to 200 employees,2016,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Less than $1 million (USD),-1
+Scientist: Mammalian Cell Line Development- 3+ years required,$86K-$137K (Glassdoor est.),"ABOUT CELLTHEON:
+
+Located in the SF Bay Area, Celltheon Corporation has developed novel mammalian expression technologies to enhance recombinant protein production. In addition, we are dedicated to offering our clients a diverse range of technical expertise from molecular biology, cell culture, purification process development and generation of early stage pre-clinical material. Celltheon employees enjoy the benefit of having the opportunity to work in a diverse challenging and technical environment with a chance to learn and contribute in multiple areas, offering both personal and professional growth in a short time frame. Celltheon seeks talented, dedicated individuals to join its growing team. Celltheon offers a competitive salary and benefits program. If you desire a position in an active, collaborative scientific environment with the opportunity for professional growth and contribution, please apply on indeed.
+
+Our website: http://www.celltheon.com
+
+Scientist Job Description
+
+Celltheon is seeking an innovative, independent and motivated professional with 3+ years of experience and expertise in mammalian expression technologies including cell line development of monoclonal antibodies and other recombinant proteins. The successful candidate will lead a team of Associate Scientists focused on cell line development of recombinant proteins including stable transfection optimization, single cell subcloning, cell banking, and process optimization. The candidate will be expected to learn and improve on existing cell line development workflows established by the company.
+
+Requirements include:
+
+· Cell Line Development: 3+ years of hands on industry experience with CHO cell line development. An ideal candidate understands cell line development procedures and technologies for transfection, resistance selection, cell counting, clonality documentation, cell passaging, clone selection, clone stability assessment, media adaptation, media and feed preparation, cryopreservation, and process development to improve protein expression.
+Process Development Experience: An ideal candidate has bioreactor operation experience (stir-tank and WAVE bioreactors), developing scalable processes for manufacturing.
+· Technical expertise: Scientific understanding of the biopharma industry and a general knowledge of the products and technologies needed for clone screening workflows and processes. Has developed and troubleshooted cell line development workflows in the past.
+
+· Communication: Regularly provides written updates on projects. Interprets and effectively communicates scientific findings / results in one-on-one and/or group discussions and summarizes results in presentation format.
+
+· Data maintenance and interpretation: Collects and compiles data and records in laboratory notebooks and batch records, ensuring they are consistently updated, audited, and well maintained. In addition, the candidate must be able to create and revise existing SOPs, as methods are developed and modified.
+
+· Performance and Management: Ability to follow written and verbal instructions in the performance of experiments and method development. Ability to train, manage and delegate tasks to direct reports.
+
+MINIMUM REQUIREMENTS:
+
+· Masters Degree in Biotechnology, Bioprocessing, Bioscience or a related subject
+
+· 3+ years of relevant industry experience in CHO Cell Line Development
+
+· Understanding of GxP compliance is preferred.
+
+· Strong working knowledge of Microsoft suite of software (Word, Excel, PowerPoint)
+
+· Good verbal and written communication skills including report writing.
+
+· Ability to lift/ carry ~50 pounds and work in a biosafety cabinet.
+
+· Ability to lead and manage a team of 4-5 people, and interact with other department leads.
+
+Job Type: Full-time
+
+Benefits:
+Paid Time Off
+Schedule:
+Monday to Friday
+Weekends
+Experience:
+Mammalian Cell Line Development: 5 years (Required)
+Education:
+Master's (Required)
+Work authorization:
+United States (Required)
+Company's website:
+www.celltheon.com
+Work Remotely:
+No",4.0,"Celltheon
+4.0","Union City, CA","Union City, CA",1 to 50 employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Scientist,$86K-$137K (Glassdoor est.),"Join us as we Rise to the Challenge
+At KCI, we’re building an enduring company that provides unparalleled value to our employee-owners. We make our mark designing and delivering our world-class solutions, so we invest deeply in developing our team. We reward integrity and commitment, and when we do well, you do well. Our people have freedom to innovate, unlimited growth, a voice that matters, a lifestyle that works, and skin in the game. Because life’s more fun when you own it.
+THE COMPANY
+KCI Technologies, Inc. is a 100% employee-owned engineering, consulting and construction firm serving clients throughout the United States. KCI is recognized as an industry leader, employing cutting-edge technologies, management practices and strategic growth initiatives. Employee ownership fosters an entrepreneurial spirit, encourages technical expertise, and shapes strategic planning.
+
+Selected candidate will provide environmental regulatory compliance consulting support under a contract with a major regional transit client. In particular, selected candidate will provide technical support to ensure compliance with federal, state and local air quality regulations. Specific air quality compliance consulting duties may include:
+Review and evaluate chemical product SDS sheets and information to determine VOC compliance
+Assist with air emissions inventories and compliance reporting
+Prepare semi-annual reports and annual certification for Title V air permit
+Evaluate new facilities or renovated facilities for permit applicability
+
+Bachelor of Science or Master of Science in Natural or Environmental or related field.
+Minimum of 2 - 4 years of professional experience.
+Pre-employment drug screening is a condition of employment. Background and motor vehicle checks may be required based upon position.
+
+Complete Annual Individual Training Program
+Train adequate backup personnel to support your role in your absence
+Attend meetings with clients as required
+Comply with all KCI policies and procedures
+Ensure projects fulfill ISO compliance requirements
+Complete other duties as required/assigned
+Assist with preparation of proposals and qualifications in repsonse to RFPs and RFQs
+Achieve or exceed budgeted individual utilization target(85% typical)
+Attend bi-weekly(or more frequently as necessary) meetings with project team on all projects/tasks
+Complete all tasks on time and within budget while fully meeting the scope
+Operate within specified (corporate or project) budget parameters
+Assess and document potential project impacts
+Collect required field data using proper protocols and techniques
+Lead field surveys
+Lead the development of and assemble organized, clear, and cohesive technical reports
+Prepare avoidance or minimization recommendations
+Prepare mitigation strategy and plan as required
+Process field data for inclusion in reports and deliverables
+Review and interpret lab results
+KCI Technologies, Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.",3.6,"KCI Technologies
+3.6","Sparks, MD","Glencoe, MD",1001 to 5000 employees,1988,Company - Private,Architectural & Engineering Services,Business Services,$100 to $500 million (USD),-1
+R&D Scientist,$86K-$137K (Glassdoor est.),"Since 2001, Hygiena has been on a mission to be the global leader in rapid industrial diagnostic testing. Our world-class team of innovators, leaders, creators and problems solvers has helped Hygiena become the breakaway leader in the markets we serve. In our growing global business, there is always opportunity for talented and passionate individuals to grow with Hygiena.
+
+We are currently recruiting for an R&D Scientist to join our Qualicon Diagnostics team located in Delaware!
+
+In this role the R&D Scientist will be responsible for the development and improvement of rapid methods for microbial detection. Design, develop and help with commercialization of new molecular diagnostic products and implementing new technologies that are essential for Hygiena’s product base.
+
+Responsibilities:
+•Design and perform studies and experiments needed to improve current methods, assess and develop alternative methods, assays and technology
+•Write protocols, analyze and interpret results
+•Communicate results at team meetings
+
+Qualifications:
+•Ph.D. in Molecular Biology or a related field
+oMinimum of 2 years of lab experience
+OR
+•Master’s Degree in Molecular Biology or a related field required.
+oMinimum of 5 years of lab experience
+•Hands-on experience in designing studies and experiments and analysis of failure modes with some supervision
+•Knowledge of traditional and rapid microbiological techniques is required
+•Experience in molecular biological techniques, including DNA/RNA techniques and PCR, qPCR/real time PCR is required
+•Experience in Bioinformatics (Primer/Probe Design, multiple sequence alignments, Design of TaqMan and Scorpion probes) is desirable
+•Experience in food microbiology, food safety a plus
+•Experience in data analysis, interpretation and presentation of results
+•Experience in Microsoft Office (Outlook, Word, Excel, PowerPoint) and Adobe Acrobat required.
+
+Supervisory Responsibilities:
+•Train and supervise junior level scientist and new employees as needed
+
+Skills/Abilities:
+•Assay Development
+•Data analysis and interpretation
+•Excellent verbal and written communication,
+•Must be able to use discretion and independent judgement.
+•Self-disciplined and organized
+•Ability to multi-task and handle multiple projects
+•Must be able to work in a team environment.
+•Must be able to pay close attention to details.
+•Must be able to adapt and flex to a changing environment.
+•Must be able to lift/carry 20 pounds.
+
+Working Conditions:
+•May require occasional travel
+•May occasionally work evenings and/or weekends.
+
+Physical Demands:
+•This position is considered light work - exerting up to 20 pounds of force occasionally, and/or up to 10 pounds of force frequently, and/or a negligible amount of force constantly to move objects. If the use of arm and/or leg controls requires exertion of forces greater than that for sedentary work and the employee sits most of the time, the job is rated for light work.
+•Required to have close visual acuity to perform an activity such as: viewing a computer screen
+•Frequently required to maintaining a static position, talking, hearing, seeing and repetitive motions.
+
+Work Environment:
+•The work environment includes both a typical office environment and a laboratory environment, including exposure to Biosafety Level 2 pathogens
+
+Why you’ll want to join our team.
+Teamwork as a core value.
+At Hygiena, our emphasis on teamwork and cross-functional communication enables us to build stronger bonds within our business.
+
+Be a part of something big.
+Hygiena plays a critical role in helping to prevent global health crisis such as foodborne illness, healthcare-associated infections, and other outbreaks.
+
+Giving back to our communities.
+Hygiena believes in giving back by supporting local organizations committed to improving the lives of children and youth in our communities.
+
+Apply Now",3.9,"Hygiena
+3.9","New Castle, DE","Camarillo, CA",201 to 500 employees,-1,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),"Ecolab, Eurofin Private Investment Office"
+Business Analytics Manager,$86K-$137K (Glassdoor est.),"Business Analytics Manager
+Milwaukee Branch
+12355 Uline Way, Kenosha, WI 53144
+
+Customer Service is the heartbeat of our company. We depend on our Call Center employees to serve our customers and fulfill our promise of reliability.
+
+Uline is proud to operate as a drug-free workplace. All new hires must complete a pre-employment drug screening.
+
+Position Responsibilities
+Manage the Customer Service analytics team, listening to recommendations and taking measures to maximize team effectiveness.
+Provide leadership, training and coaching.
+Evaluate business processes, developing and implementing solutions for improvements.
+Create performance and success reports.
+Build and maintain relationships with branch leadership to drive performance.
+Act as a liaison between business and IT groups.
+Minimum Requirements
+Bachelor’s degree.
+5+ years experience in business analysis.
+Experience leading and developing top-performing teams.
+Experience in call center, warehouse, or supply chain environment.
+Knowledge of data design, ETL process, data warehousing and SQL.
+Benefits
+Complete insurance coverage that includes medical, dental, vision and life insurance, Flexible Spending Accounts and wellness programs.
+401(k) with 5% employer match.
+Paid holidays and generous paid time off.
+Bonus programs that include annual performance, sales goals and profit sharing.
+Scholarship program for children of employees.
+Employee Perks
+On-site café and outdoor patio.
+First-class fitness center.
+Beautifully maintained walking trails.
+Free chair massages.
+Numerous employee appreciation events throughout the year.
+Opportunities for community involvement.
+About Uline
+
+Uline is the leading distributor of shipping, industrial and packaging materials to businesses throughout North America. We're a family-owned company whose incredible service, huge inventory and quality products fuel our ongoing expansion and growth. We offer same-day shipping on over 37,500 products in our 812-page catalog and on our state-of-the-art e-commerce website.
+
+Each resume submitted gets individually reviewed by our team and retained for 24 months in case a great opportunity opens for you to join our Uline family.
+
+EEO/AA Employer/Vet/Disabled
+
+#LI-JF1
+#CORP",3.2,"Uline
+3.2","Milwaukee, WI","Pleasant Prairie, WI",5001 to 10000 employees,1980,Company - Private,Wholesale,Business Services,Unknown / Non-Applicable,"The Home Depot, Foxconn, Amazon"
+Senior Data Scientist,$86K-$137K (Glassdoor est.),"Grubhub is dedicated to connecting hungry diners with our wide network of restaurants across the country. Our innovative technology, easy-to-use platforms and streamlined delivery capabilities make us an industry leader today, and in the future of online food ordering.
+We strive to create a workplace that reflects the diversity of our customers and the communities we serve. When you join our team, you become part of a community that works together to innovate, solve problems, take risks, grow, work hard and have a ton of fun in the process!
+Why Work For Us
+We have a fast-paced environment and that is what our teams thrive on. Grubhub believes in empowering people and offering opportunities for development, as well as professional growth. We value strong, positive relationships in all areas: with each other, our customers and our greater community. Want to be a part of a team of diverse collaborators in an authentically fun culture? If so, we want to talk to you - and hear what’s your favorite restaurant for food delivery!
+More About the Role:
+Grubhub is looking for a data scientist to join the Pricing team. As a part of Pricing, you’ll be a member of a small team of data scientists and engineers who shape and optimize how we charge our diners, shaping hundreds of millions in revenue annually. You will work closely both with financial stakeholders as well as engineers to ship models that make Grubhub more efficient with the way in which it charges customers. You’ll construct models and A/B tests as well as write code to improve our modeling capabilities.
+
+Prototype and ship large-scale models that help drive profit or order volume
+Conduct A/B experiments to validate the effectiveness of these models
+Work closely with financial stakeholders to construct models that drive business goals
+Leverage big data tools to incorporate new data sources into modeling pipelines
+Work closely with data scientists and backend engineers to implement and maintain your changes
+
+MS with 5+ years of relevant industry experience or PhD in computer science, engineering, statistics, machine learning, mathematics, or in another quantitative field
+Experience shipping changes to a production environment
+Comfortable with using git, basic Linux commands, and object-oriented programming languages (Scala, Java, Python)
+Experience performing analysis with large-scale SQL tooling (Presto, BigQuery, etc.)
+Familiarity with basic AWS tools like EC2 and S3
+Superior communication and data presentation skills
+Effective working in a fast-paced team environment
+Preferred Qualifications
+Demonstrated ability to work on cross-functional teams
+Experience making high-impact decisions (multiple millions of dollars)
+Ability to comprehend and debug complex systems that might cross team and tool boundaries across the company
+
+Flexible PTO. Grubhub employees are provided a generous amount of time to recharge their batteries.
+Health and Wellness. We provide programs that support your overall well-being such as generous medical benefits, employee network groups, company-wide fitness challenges, and a comfortable and casual workplace! We also support our parents by offering 8 weeks of paid parent bonding time, a 4-week returnship program, and 6-8 weeks paid medical leave.
+Learning and Career Growth. Your personal and professional development is a priority at Grubhub. From day one, we empower you to lead and be an active participant in your career growth. We provide continuous learning opportunities, training, and coaching and mentorship programs.
+MealPerks. Who’s ready for some lunch? We provide our employees with a weekly Grubhub credit to enjoy and support local restaurants. We also offer company-wide meals several times a year to bring our Grubhub family together.
+Fun. Every Grubhub office has an employee-led Culture Crew that connects people through fun, meaningful events and initiatives. Some of our popular past events include: Wing-eating contests, Grubtoberfest, 5k Runs, Bring Your Child to Work Day, regular happy hours, and more!
+Social Impact. We believe in the importance of serving the communities that support our business. In addition, employees are given paid time off each year to support the causes that are important to them.
+
+Grubhub is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics. The EEO is the Law poster is available here: DOL Poster. If you are applying for a job in the U.S. and need a reasonable accommodation for any part of the employment process, please send an e-mail to TalentAcquisition@grubhub.com and let us know the nature of your request and contact information. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address.
+CA Privacy Notice: If you are a resident of the State of California and would like a copy of our CA privacy notice, please email privacy@grubhub.com.",3.8,"Grubhub
+3.8","New York, NY","Chicago, IL",1001 to 5000 employees,2004,Company - Public,Internet,Information Technology,$100 to $500 million (USD),DoorDash
+"Data Scientist, Analytics",$86K-$137K (Glassdoor est.),"About the team:
+
+
+The Evernote Analytics team is responsible for providing data insights that inform and influence our product and business decisions. We are looking for data scientists who are passionate about using data to solve interesting or challenging problems, to shape the future of what we build at Evernote. The ideal candidate will have a background in a quantitative or technical field, will have experience working with complex data sets, and will have experience in data-driven decision making. You are intellectually curious, focused on results, and have demonstrated success in using analytics to drive the understanding, development, and success of product or marketing initiatives. This position is open to the following locations: Redwood City, CA (preferred); San Diego, CA; Bothell, WA; Austin, TX; Remote.
+
+What you will do:
+
+
+Apply your expertise in quantitative analysis, data mining, and data visualization to see beyond the numbers, understand how our users interact and engage with Evernote, and draw actionable insights
+Partner closely with product, engineering and marketing teams to solve problems and identify trends and opportunities
+Lead the definition of product and business success metrics, collaborate with working teams to ensure correct data tracking instrumentation for measurement
+Build reports and dashboards to monitor KPIs (Key Performance Indicators), understand drivers of KPI changes
+Help set up experiments, analyze and interpret results
+Effectively communicate insights and recommendations to stakeholders
+Design and implement predictive models to improve engagement, conversion, and retention
+Lead ongoing decisions concerning data collection, test/study design and data analyses
+What you have done:
+
+
+Bachelors or Masters in Computer Science, Statistics, Math, Finance, or other quantitative field
+3+ years experience doing quantitative analysis
+Experience in querying and manipulating large data sets using SQL
+Understanding of statistics (e.g., hypothesis testing, regressions)
+Knowledge in experimentation methods and/or predictive modeling
+Ability to translate complex data into actionable insights for a non-technical audience
+Who you are:
+
+
+Strong problem solving and analytical skills
+Driven self-starter with good attention to detail
+Willingness to learn new technologies, tools and approaches to problem solving
+Excellent communication and presentation skills
+We are committed to an inclusive and diverse Evernote. We believe that different perspectives lead to better ideas, and better ideas allow us to better understand the needs and interests of our diverse, global Evernote Community. We welcome people of different backgrounds, experiences, abilities and perspectives and are an equal opportunity employer.
+
+California privacy notice: Read our privacy policy for job applicants here.",4.2,"Evernote
+4.2",United States,"Redwood City, CA",201 to 500 employees,2008,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),-1
+Data Scientist Architect,$86K-$137K (Glassdoor est.),"This career opportunity is in our Minneapolis office. This individual contributor position will be a member of a high-performing technology team that leads the firm in Business Intelligence and data services by providing architectural guidance, technological vision and solution development. Specifically, this position will be utilizing advanced analytics, data science and machine learning to give our business and our products a competitive advantage. It includes understanding and managing the data, how it interconnects and architecting data for self-serve BI and BA opportunities. This position is for a person that is both business savvy and an expert in data analytics/data science that enjoys framing a problem, shaping & creating solutions and helping to champion implementation.
+
+PRIMARY DUTIES AND RESPONSIBILITIES
+Identify and prioritize business use cases. Understand the business, strategy and work with business leaders to identify and prioritize problems that advanced analytics is suited to solve. Effectively communicate these ideas to senior management. In other words, translate business problems into advanced analytics/data science projects and lead in quantifying the various types of risk and rewards that allow these projects to be prioritized.
+Stakeholder thought partner to stakeholders by understanding the business needs through a deep knowledge of business operations, the key strategic objectives of our stakeholders, and what stakeholders need to achieve those strategic objectives. Seen by the stakeholder as an extension of their team and brought in for strategic and operational conversations.
+Operationalize data and analytic products while also making sure they continue to deliver value. Be able to tell the story of how data and analytics is positively impacting stakeholders. Work closely with the business to achieve real value through informed decisions and improved actions.
+Give direction and insight on all data analytics large initiatives/epics/areas of focus.
+Build end to end advanced analytics, DSML and AI solutions.
+Collect and prepare data. You will help identify the business data needed to produce the most useful insights and future analytics. This would include business line and possible outside sources of data. Ensuring alignment on short-term delivery goals and long-term data and analytic roadmaps with clear articulation of expected value and how the work is to be prioritized.
+Validate business implications. You will synthesize analytics-derived insights into easy-to-understand, actionable recommendations that business users can easily understand. Ensure that the insights generated through sophisticated analytics translate to help drive revenue and cost-effective scaling.
+Stay abreast of the latest developments and advancements. And how they could impact SullivanCotter.
+EDUCATION AND EXPERIENCE REQUIREMENTS
+Bachelor’s degree in business, IT, mathematics, statistics or relevant degree program.
+10+ years' experience in data analytics or a data scientist or data architect role.
+Expertise solution design, problem framing, design thinking, analytics techniques and building solutions.
+Skilled at communicating with a variety of methods to include written business cases, data visualizations and infographics.
+Demonstrated technical excellence in BI, reporting and analytics tools, analytic solutions (e.g. Power BI, Tableau, R), data visualization, data analytics processing, Python, SQL, AI, and ML.
+Experience with the techniques and technologies of data science, along with a comprehensive understanding of the challenges associated with each (e.g. overfitting, model refresh, challenge of acquiring training data, cost of compute, etc.).
+Demonstrated communication and influencing skills with business and technical leaders. A talent for boiling complex ideas down to clear, practical choices. Track record of delivering multiple projects with tangible impact.
+Extensive experience leading large complex projects, including strategic and tactical planning and implementation, analysis, design, technology selection and deployment.
+Results driven–sets aggressive goals and is accountable for continuously driving improved outcomes, leads change, and ensures high standards.
+Storytelling: ability to communicate complex ideas in a way that is digestible to broad audience and leads to decision and action.
+Track record of developing and implementing innovative highly available, scalable and secure enterprise data and analytic deployments to meet current and future business needs.
+BEHAVIORAL ATTRIBUTES
+You are passionate about helping organizations drive their success utilizing data.
+Skilled storyteller with a passion for data, you will analyze and evaluate data to create innovative advanced analytics to provide the business a competitive edge.
+Inquisitive, desire to ask questions and get a deeper understanding of issues (business and data).
+Innovative, ability to imagine new analytical solutions to any problem.
+Confident, able to challenge perceptions and biases of individuals at every level of the organization in order to enact improvements.
+Ability to communicate to both technical and non-technical people. Passion to give others an advantage of understanding by using accessible language.
+Business oriented, solid understanding of business requirements and vernacular.
+Highly detailed where and when you need to be, able to be less detailed when you need to be.
+Curious, stays abreast of current and upcoming technologies and tools.
+Applicants for employment must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status).
+
+Qualified applicants will be afforded equal employment opportunities without discrimination because of race, creed, color, national origin, sex, age, disability or marital status.
+
+Apply Now",4.2,"SullivanCotter
+4.2","Minneapolis, MN","Chicago, IL",201 to 500 employees,1992,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,"Mercer, Korn Ferry, Integrated Healthcare Strategies"
+Staff Data Scientist,$86K-$137K (Glassdoor est.),"At realtor.com, we process terabytes of data everyday and transform that data into information that powers decisions for millions of home buyers, renters, dreamers, and real estate professionals. We aim to radically simplify home buying/selling and help more people achieve the American dream on our realtor.com website and mobile apps.
+
+We seek a highly seasoned Staff Data Scientist to join our experienced data science team and help take it to the next level. As a key member of the team, you will be responsible for the development of innovative concepts, research, predictive modeling, and machine learning algorithms. You will serve as a mentor for the junior data scientists on the team and provide guidance on their individual projects.
+
+Responsibilities:
+Develop predictive, explanatory models and machine learning algorithms.
+Create automated learning systems that gracefully scale to increasing complexity and expectation.
+Perform exploratory analysis on realtor.com's wealth of data including consumer web and mobile behavior and North America's most comprehensive and up-to-date listings and properties data set.
+Effectively partner with product and engineering teams to build new data driven and machine learning based features for enriching the consumer experience of home shoppers, renters and sellers.
+Design and build data science solutions to drive revenue growth, customer retention and support strategic decision making.
+Generate descriptive visualizations and presentations to communicate insights.
+Drive A/B & multivariate tests and design of experiments to facilitate testing of new product and design features, with focus on improving engagement, retention, and conversion.
+Help improve the scope of our data sets by identifying new data collection and procurement opportunities on an ongoing basis.
+Mentor a team of data scientists on data exploration, machine learning and developing data-oriented products.
+Work with a sense of ownership and urgency, advocate for experimentation based, agile culture.
+Requirement:
+PhD/MS in computer science, statistics, mathematics, operations research or related fields.
+4+ years of relevant experience in data science, machine learning or applied statistics.
+Experience with Machine Learning, NLP or Computer Vision and data mining tools and underlying algorithms.
+Experienced in Python, R, Spark or other languages and frameworks appropriate for large scale analysis of structured and unstructured data.
+Working experience with relational databases (SQL) and large scale distributed systems.
+Experience with experiment design and A/B and multivariate tests.
+Proven track record of developing online data products.
+Strong creative thinking and problem solving skills.
+Excellent oral and written communication and presentation skills.
+At realtor.com®, we believe that everyone deserves a home of their own. We're a community of nearly 2,000 employees that work hard to ensure that from the moment someone starts dreaming about a new home, to the moment they walk in the door and beyond, we're there to lend a helping hand. Every month, 70 million people trust us with their journey home by visiting our site and mobile apps, and we'd love to have you join our team to help.
+
+We've got great offices across Canada and the US and lots of sweet jobs to choose from, so we're hoping you'll join us on our journey to make home buying and selling easier, and more rewarding for everyone.
+
+Let's make a difference, together. For Real.
+
+#LI-DW1",2.7,"realtor.com
+2.7","Santa Clara, CA","Santa Clara, CA",1001 to 5000 employees,1993,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,"Zillow, Trulia, Redfin"
+Analytics Manager,$86K-$137K (Glassdoor est.),"The Access for More Patients (AMP) Analytics Manager leads a team of data professionals that provide data-driven insights to our internal and external customers. This positions primary responsibility is to grow and manage a high-performing analytics team that understands our business and customers and provides solutions ranging from specific and concrete (e.g., standardized product dashboards) to the abstract (e.g., demonstrate our value proposition). This position requires a combination of domain expertise along with leadership, business, organizational, technical, and interpersonal skills. The Analytics Manager will partner closely with the Product, Development, and Customer Success groups across multiple organizations to support the AMP product and customers. We are looking for someone who is focused on outcomes and increasing our value to our customers.
+
+The Analytics Manager reports to a Director of Engineering and Data.
+
+What Youll Do
+Ensure that the primary stakeholders of Product, Development, Customer Success, Operations, Sales, and Finance are fully supported with data and analytics
+Develop a team which demonstrates exceptional rapport and credibility with both internal and external stakeholders
+Ensure that team members have an excellent understanding of all facets of our customers, our business, and our stakeholders
+Ensure that team members can provide consultation with customers
+Enable data insights for the continuous improvement of the product
+Develop and implement scalable and repeatable processes to ensure the timeliness and accuracy of reporting services as we grow
+Oversee the design, production, and delivery of reports and dashboards that analyze business functions, key operations, and performance metrics
+Recruit, train, develop, and guide team members
+Manage the careers of team members including professional growth, performance reviews, and positive and critical feedback
+Provide vision and thought leadership in areas related to healthcare, analytics, and data science
+Anticipate the future demands of customers, team members, technology, and the business and design/implement solutions to meet these needs
+About You
+Four-year degree or equivalent experience
+Previous management experience required
+Strategic thinker, able to understand and manage technology and analysts, yet maintain a business and customer focus
+Strong leader, able to inspire talented analysts to think strategically, master tools and technology, provide solutions to the customer and business, and accomplish more than they thought they could
+Experience using analytics and visualization to contribute to company growth efforts, increasing revenue and other key business outcomes
+Knowledge of and experience with multiple BI and analytics platforms (Tableau preferred)
+Ability to work and thrive in a highly creative, collaborative, and dynamic environment
+Excellent communication, collaboration and delegation skills
+Previous healthcare experience strongly preferred, but not required
+About Us
+
+CoverMyMeds, part of McKessons Prescription Technology Solutions, is a fast-growing healthcare technology company. Our mission: Help patients get the medications they need to live healthy lives. Our solutions seamlessly connect the health care network to improve medication access, increasing speed to therapy and reducing prescription abandonment for patients like you and me.
+
+We hire ambitious people and make it a priority to invest in them by providing opportunities to grow their careers and connections within the community. On-site culinary team, flexible hours and paid benefits? Yeah, we have those too. But dont take our word for it. Weve been recognized as a Best Place to Work by Glassdoor, a Best Company to Work For by FORTUNE, and our employees have great things to say, too.
+
+CoverMyMeds is an equal opportunity and affirmative action employer. We embrace diversity and are committed to creating an inclusive environment for all employees. Qualified applicants will be considered for employment without regard to race, religion, gender, gender identity, sexual orientation, national origin, age, disability or veteran status.
+
+Powered by JazzHR",4.6,"CoverMyMeds
+4.6","Columbus, OH","Columbus, OH",1001 to 5000 employees,2008,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1
+Data Scientist (Polygraph Clearance),$86K-$137K (Glassdoor est.),"Secure our Nation, Ignite your Future
+
+Join the top Information Technology and Analytic professionals in the industry to make invaluable contributions to our national security on a daily basis. In this innovative, self-contained, Big Data environment, the ManTech team is responsible for everything from infrastructure, to application development, to data science, to advanced analytics and beyond. The team is diverse, the questions are thought-provoking, and the opportunities for growth and advancement are numerous
+
+The successful candidate will possess a diverse range of data-focused skills and experience, both technical and analytical. They will have a strong desire and capability for problem solving, data analysis and troubleshooting, analytical thinking, and experimentation.
+
+Duties, Tasks & Responsibilities
+Working with large, complex, and disparate data sets
+Designing and implementing innovative ways to analyze and exploit the Sponsors data holdings
+Researching and reporting on a wide variety of Sponsor inquiries
+Raising proactive inquiries to the Sponsor based on observations and proposed data analysis/exploitation
+Solving difficult, non-routine problems by applying advanced analytical methodologies, and improving analytic methodologies
+Developing custom searches
+Communicating and coordinating with internal and external partners as needed
+Required Experience, Skills, & Technologies
+
+Thorough knowledge of appropriate analytic tools and methodologies in one or more of the following:
+Applied mathematics (e.g. probability and statistics, formal modeling, computational social sciences)
+Computer programming (e.g. programming languages, math/statistics packages, computer science, machine learning, scientific computing)
+Ability to code or script in one or more general programming language
+Experience with and theoretical understanding of algorithms for classification, regression, clustering, and anomaly detection
+Knowledge of relational databases, including SQL and large-scale distributed systems (e.g. Hadoop)
+Expertise with statistical data analysis (e.g. linear models, multivariate analysis, stochastic models, sampling methods)
+Demonstrated effectiveness in collecting information and accurately representing/visualizing it to non-technical third parties
+TS/SCI with Polygraph
+Bachelor of Science or equivalent and 12-15 years related experience, but will consider all levels of experience.
+Desired Experience, Skills & Technologies
+Previous investigative experience using a combination of technical and analytic skills
+#LI-DU1
+
+ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+
+If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.",4.2,"ManTech
+4.2","Chantilly, VA","Herndon, VA",5001 to 10000 employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),-1
+Customer Success Data Analyst,$86K-$137K (Glassdoor est.),"About Command Alkon
+
+At Command Alkon, we turn passion into innovation. Our market-leading, next-generation solutions and services create incredible experiences for our customers, and our career opportunities and culture create amazing experiences for you.
+
+As the Leading Supplier Collaboration Platform for Heavy Work, Command Alkon solutions deliver supply chain integration and frictionless digital collaboration across the heavy construction ecosystem. We are a community of creative thinkers and professionals who strive to make businesses more efficient and effective. This is just one of the reasons why we were named to Fast Company’s Annual Recognition of World’s Most Innovative Companies for 2020.
+What You'll Do
+Develop advanced user skills with the TrackIt SaaS telematics application
+Build excel views of contract, invoice and usage data
+Merge excel worksheets utilizing vlookup or xlookup
+Input and manage opportunities in Microsoft D365.
+Upsell add-on features such as engine data or payroll export
+Assist in the development of a renewal schedule
+Plan renewal strategies with customer success teammates and sales
+Grow customer relationships to strengthen account retention
+Who You Are
+College degree in business or a related field
+Proficient in MS Office with advanced skills in excel (vlookup etc).
+Skilled communicator, both verbal and written
+Good Organizational skills
+Ability to work well with other departments
+Why work for Command Alkon?
+
+Command Alkon, voted one of Birmingham’s Best Places to Work for 3 years in a row, is headquartered in Birmingham, Alabama and has offices in locations around the globe. When you choose Command Alkon, you aren’t only making an impact on your career - you’re impacting the world in which we live. Command Alkon is leading a change in the industry with continuous growth and expansion into new markets; giving you the opportunity to make real contributions that will benefit billions of people, all around the world, every single day.
+We take pride in a culture that promotes sustainability, creative problem-solving, and the well-being of our employees. We invest in developing your talents with training and mentorship, and we challenge you with engaging work that ensures you can make an impact and build your skills. To be a company of tomorrow, we must continuously move forward and be the stewards of change. Come be part of something much bigger than yourself!
+Command Alkon strives to be an employer of choice, offering a comprehensive benefit package and perks that include:
+- Paid Parental Leave
+- Casual dress code
+- Generous family medical, dental, and vision plans
+- Company-paid life insurance, short term disability and long term disability insurance
+- 401(k) Matching Program
+- Tuition Reimbursement Program
+- Free soft drinks and hot beverages
+Find out more at http://www.commandalkon.com/careers/
+Command Alkon is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status or any other characteristic protected by law.",3.1,"Command Alkon
+3.1","Birmingham, AL","Birmingham, AL",501 to 1000 employees,1976,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),"Jonel Engineering, SAP"
+Cleared Data Scientist,$86K-$137K (Glassdoor est.),"Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITRE—and make a difference with us.
+
+As an experienced Data Scientist, you might be wondering what makes MITRE different than other government contractors and consulting firms. Many of our recent hires answered YES to at least one of the questions below:
+Do you want to partner with Defense Intelligence professionals to solve problems?
+Are you interested in developing, automating and improving capabilities to address technical issues of national importance and making a direct mission impact?
+Are you interested in contributing to technical projects that you can feel passionate about?
+Are you interested in working for a company where a 40-hour week is the norm and not the exception?
+Do you want exceptional benefits, including tuition reimbursement for coursework towards an advance degree in a technical discipline?
+In the Defense Intelligence Department, you can apply and expand software development and data skills to recommend solutions to large-scale data challenges. Join our team to develop automated methods to ingest and analyze large datasets; conduct data analysis and data modeling; and develop prototype capabilities. The candidate will be expected to work independently, with Analysts, and with Data Scientists to develop new workflows and approaches to answer questions of national significance. Our department works to identify and bring solutions to the Defense Intelligence Community and work in the public interest. We also actively conduct independent research in areas that further the knowledge of our government partners.
+
+To be successful you will:
+Be passionate about applying data analytics to real world problems.
+Have an innate curiosity and interest in developing research questions and testing hypotheses with open ended tasking.
+Work with Defense Intelligence government sponsors to gain understanding of their challenges, evaluate possible solutions and conduct insightful, actionable analyses.
+Support the development and application of a variety of analytical models to sponsor challenges, with a willingness to adapt and learn.
+Present results in an intuitive, actionable manner that can be understood by all sponsor audiences, regardless of technical expertise.
+Provide relevant day-to-day tasking for one or more junior staff.
+Lead projects throughout their life cycle, including conceptualization, requirements definition, data procurement, development, integration, and socialization
+Minimum Qualifications :
+BS and 8 years related experience
+Applicants selected for this position will be subject to a government security investigation and must meet eligibility requirements for access to classified information or applicants who are eligible for security clearances.
+Required Qualifications:
+Prior experience working with the Department of Defense and/or Intelligence Community.
+Significant academic background in a quantitative field such as Computer Science, Engineering, Operations Research, Mathematics, or Statistics.
+Excellent written and verbal communication skills.
+Demonstrated ability to manipulate large datasets and perform calculations with at least two modern programming language like Python (scikit-learn, pandas, tensorflow), C++, R, or Java or a business intelligence platform like Tableau.
+Ability to apply, modify and formulate algorithms and processes to solve challenging problems.
+Familiarity with AWS tools.
+Demonstrated experience leading customer facing engagements emphasizing data analytics.
+Possess and maintain an Active TS/SCI level security clearance with the ability to successfully obtain a CI Poly level clearance.
+
+
+Preferred Qualifications:
+Prior experience working with databases (e.g., PostgreSQL, Oracle, MySQL, MongoDB, Neo4j).Experience visualizing multi-dimensional data using tools like Tableau, ggplot2, Plotly, matplotlib, seaborn, or D3.js.
+Experience leading or conducting research.
+Experience designing data science tasking and/or leading a team of data scientists.
+Experience applying various machine learning approaches (e.g., random forest, neural networks, support vector machines).
+Experience using version control (e.g., Git, Mercurial, SVN) to support collaborative development.
+Prior experience developing interactive data visualizations using open source web technologies (Angular, Vue, React, D3.js) or other frameworks (Shiny, Jupyter Notebooks).
+Prior experience developing data-intensive full stack web applications using Node.js, Flask, Django, or other technologies.
+MITRE is proud to be an equal opportunity employer. MITRE recruits, employs, trains, compensates, and promotes regardless of race, religion, color, national origin, gender, gender expression, sexual identity, disability, age, veteran status, and other protected status.
+
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please contact MITRE’s Recruiting Help Line at 703-983-8226 or email at recruitinghelp@mitre.org.
+
+Copyright © 1997-2020, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.",3.3,"MITRE
+3.3","Charlottesville, VA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC"
+Data Scientist,$86K-$137K (Glassdoor est.),"Data Scientist
+Affinity Solutions / Marketing Cloud seeks smart, curious, technically savvy candidates to join our cutting-edge data science team. We hire the best and brightest and give them the opportunity to work on industry-leading technologies.
+The data sciences team at AFS/Marketing Cloud build models, machine learning algorithms that power all our ad-tech/mar-tech products at scale, develop methodology and tools to precisely and effectively measure market campaign effects, and research in-house and public data sources for consumer spend behavior insights. In this role, you'll have the opportunity to come up with new ideas and solutions that will lead to improvement of our ability to target the right audience, derive insights and provide better measurement methodology for marketing campaigns. You'll access our core data asset and machine learning infrastructure to power your ideas.
+Duties and Responsibilities
+· Support all clients model building needs, including maintaining and improving current modeling/scoring methodology and processes,
+· Provide innovative solutions to customized modeling/scoring/targeting with appropriate ML/statistical tools,
+· Provide analytical/statistical support such as marketing test design, projection, campaign measurement, market insights to clients and stakeholders.
+· Mine large consumer datasets in the cloud environment to support ad hoc business and statistical analysis,
+· Develop and Improve automation capabilities to enable customized delivery of the analytical products to clients,
+· Communicate the methodologies and the results to the management, clients and none technical stakeholders.
+Basic Qualifications
+· Advanced degree in Statistics/Mathematics/Computer Science/Economics or other fields that requires advanced training in data analytics.
+· Being able to apply basic statistical/ML concepts and reasoning to address and solve business problems such as targeting, test design, KPI projection and performance measurement.
+· Entrepreneurial, highly self-motivated, collaborative, keen attention to detail, willingness and capable learn quickly, and ability to effectively prioritize and execute tasks in a high pressure environment.
+· Being flexible to accept different task assignments and able to work on a tight time schedule.
+· Excellent command of one or more programming languages; preferably Python, SAS or R
+· Familiar with one of the database technologies such as PostgreSQL, MySQL, can write basic SQL queries
+· Great communication skills (verbal, written and presentation)
+Preferred Qualifications
+· Experience or exposure to large consumer and/or demographic data sets.
+· Familiarity with data manipulation and cleaning routines and techniques.",3.0,"Affinity Solutions
+3.0","New York, NY","New York, NY",51 to 200 employees,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,"Commerce Signals, Cardlytics, Yodlee"
+Data Scientist/Machine Learning,$86K-$137K (Glassdoor est.),"Data Scientist/Machine Learning
+
+Mist, a Juniper Company, is the first vendor to bring enterprise-grade Wi-Fi, BLE and IoT together through a highly scalable cloud architecture. At Mist, we built the first AI-empowered platform to provide an unprecedented visibility into the user experience. Mist is the new global standard for many fortune 500 companies.
+
+The mission of the Data Science team at Mist is to leverage state-of-art ML and AI technologies to build the next-generation self-driving network solution, which can take actions on behalf of or together with human experts to automatically monitor, detect and remediate common network issues. The team includes a group of experienced and talented data scientists and data science engineers, and builds the end-to-end data analytics infrastructure and ML models of the product.
+
+Now we are looking for a Senior Data Scientist to help define and expand this mission. As a data scientist, you will collaborate with product managers and domain experts to identify use-impacting real customer problems, use your deep DS/ML knowledge to develop data-driven solution with terabytes data, and work closely with data engineers to implement and scale the models in production.
+
+Qualifications/Requirements:
+• MS or PhD in Computer Science, Electrical Engineering, Statistics, Applied Math or equivalent fields with strong mathematical background
+• Excellent understanding of machine learning techniques and algorithms, including clustering, anomaly detection, optimization, neural network etc
+• 3+ years experiences building data science-driven solutions including data collection, feature selection, model training, post-deployment validation
+• Strong hands-on coding skills (preferably in Python) processing large-scale data set and developing machine learning models
+• Familiar with one or more machine learning or statistical modeling tools such as Numpy, ScikitLearn, MLlib, Tensorflow
+• Good team worker with excellent communication skills written, verbal and presentation
+
+Desired Experience:
+• Experience with AWS, S3, Flink, Spark, Kafka, ElasticSearch
+• Knowledge and experience with NLP technology
+• Previous work in a start-up environment
+
+Juniper Networks is enrolled in E-Verify® and will be participating in E-Verify in addition to our Form I-9 process. www.dhs.gov/E-Verify
+Juniper Networks is an Equal Opportunity/Affirmative Action Employer.",3.8,"Juniper Networks
+3.8","Cupertino, CA","Sunnyvale, CA",5001 to 10000 employees,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),-1
+Senior Research Statistician- Data Scientist,$86K-$137K (Glassdoor est.),"Acuity is seeking a Senior Research Statistician- Data Scientist to use statistical knowledge and research skills to solve business problems. The Research Statistician will develop, implement, and interpret statistical models with a strong emphasis on data mining and statistical/predictive modeling. Provides work direction.
+ESSENTIAL FUNCTIONS:
+Identifies and acquires additional data sources, both internal and external, that can be used to enhance analyses.
+Lead the development of analytical models to drive superior business outcomes.
+Develop in-depth understanding of drivers for optimization by utilizing statistics and data mining techniques.
+Using latest PC tools, develop, enhance and monitor reports and models for other business areas.
+Evaluate and use Data Mining Tools.
+Support, train, encourage, consult other areas in the company and provide actionable information to management.
+Continually monitor database information and future needs.
+Explore and acquire data from outside sources.
+Use database tools to support other departments
+Regular and predictable attendance.
+Perform other duties as assigned.
+EDUCATION:
+Masters/PhD in Statistics, Mathematics, Economics, Operations Research or Computer Science
+EXPERIENCE:
+5 years P&C insurance, modelling and project leader experience. Programming skills including SAS and R.
+OTHER QUALIFICATIONS:
+Strong interpersonal, quantitative, problem-solving, computer and conceptual skills.
+Aptitude in predictive modeling, multivariate analysis, statistical modeling, data mining techniques and mathematical statistics.
+Ability to apply strong programming and data management skills.
+Knowledge of and experience with at least one major computer programming language or advanced syntax in a major statistical package.
+This job is classified as exempt.",4.8,"Acuity Insurance
+4.8","Sheboygan, WI","Sheboygan, WI",1001 to 5000 employees,1925,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+Population Health Data Analyst,$86K-$137K (Glassdoor est.),"Job Summary
+
+The Healthcare Intelligence Analyst employs advanced analytics to gain critical insights into member health drivers, product/program concepts and value propositions, operational effectiveness and efficiencies, member specific health gaps and needs. This position is responsible for obtaining data from various sources, understanding relevant differences between each data source and creating database structures and reports for analysis and possible production reporting. The Healthcare Intelligence Analyst provides analytics to support Blue Cross Blue Shield of North Dakota’s (BCBSND) initiatives around population health management, health care cost transformation and value-based programs.
+
+Essential Functions
+Mines for and integrates data from multiple, and varied sources, and applies business rules for the purpose of creating analytic data sets. Aggregates raw data from the data warehouse and other data sources and transforms into actionable formats. Performs statistical and data analyses through the manipulation of large data sets.
+Develops and maintains databases and systems necessary for data analysis projects and data support functions. Develops and implements processes, documentation and other strategies to optimize statistical efficiency and data quality. Develops reports and visual outputs (e.g., tables, graphs, dashboards) that effectively communicate the analytical findings to stakeholders.
+Researches and analyzes data to provide descriptive and predictive analytical insights. Develops necessary models and translates these outcomes into actionable solutions and programs for customers to build and/or improve programs and processes. Develops, formats and communicates results in a manner that meets the needs of stakeholders. Assists in identifying, compiling and providing key metrics in order to measure performance and guide improvement initiatives.
+Partners with internal and external stakeholders to understand data needs and deliver insightful analytic solutions. Works closely with other divisions to develop methods to gather and extract appropriate, accurate and timely data. Proactively communicates with all stakeholders.
+Provides assistance to various departments and management by recommending appropriate statistical analysis techniques for various projects. Assists other divisions within the company with statistical analysis, as necessary.
+Knowledge, Skills and Abilities
+Communication (Verbal/Written)
+
+Intermediate
+Business Acumen
+
+Intermediate
+Research and Data Analysis
+
+Intermediate
+Analytical Thinking
+
+Intermediate
+Business Analytics
+
+Intermediate
+Technical/Professional Knowledge and Skills
+
+Intermediate
+
+Education Requirements
+Required: Bachelor's
+
+Preferred: Master's
+Field(s) of Study: Statistics, Economics, Mathematics or related field
+
+Experience Requirements
+Required: Minimum of 3 Years
+
+Preferred: Minimum of 3 Years
+Experience Details: Minimum of 3 years of statistical, data or population health analysis is required
+
+Certification, Licensures& Registration Requirements
+Title: N/A
+
+State or Agency: N/A
+
+Equivalent combination of education, experience or training determined to be acceptable by Human Resources may be substituted, unless regulated by contract or program standards
+
+Other Information
+
+Job Posting Policy
+
+Employees new to Blue Cross Blue Shield of North Dakota are eligible to apply for positions within their assigned department after successfully completing 90-days in their role. For positions outside of their department, new employees should attain a minimum of six months of service before applying for a new role. Exceptions to this are acceptable, provided there is good business justification for making the move.
+
+Equal Opportunity Employment
+
+Equal Opportunity Employer of Minorities, Females, Protected Veterans and Individual with Disabilities, as well as Sexual Orientation or Gender Identity.
+
+For questions, please emailcareers@bcbsnd.com
+
+This job posting will be closed 8/7/2020 at 8:00AM CST. No further applications will be considered.",2.6,"Blue Cross Blue Shield of North Dakota
+2.6","Fargo, ND","Fargo, ND",501 to 1000 employees,1940,Company - Private,Insurance Carriers,Insurance,Less than $1 million (USD),-1
+Senior Data Scientist,$86K-$137K (Glassdoor est.),"The world's first customer platform helping internet businesses accelerate growth
+
+
+Intercom builds a suite of products that provide modern internet businesses a new and better way to acquire, engage and retain customers. Today more than 25,000 businesses, including New Relic, Sotheby's, and Shopify, use Intercom to connect with a billion unique people worldwide.
+
+Intercom is a deeply creative company with the confidence to believe it can fundamentally change the future of internet business. Our people are incredibly ambitious, yet humble. Warm, accepting, and positive. Whether you build, market, sell, or support product, we want you to make your mark with us.
+
+What's the opportunity?
+
+
+At Intercom, Analytics & Data Science teammates partner with every function in the organization in order to help teams make data-informed decisions and take data-informed actions. We're highly quantitative individuals who love to turn data into insights and communicate our findings fearlessly, and we're looking for people with a similar mindset who are constantly curious, driven to understand our business better, and committed to creating value.
+
+In this role, you will partner with go-to-market teams across Intercom (including Marketing, BizOps, Finance, Growth R&D, and Sales) to measure new initiatives and make data-driven recommendations around go-to-market strategy. In addition to being experienced analytically, we're looking for someone who can proactively surface recommendations and insights, who's comfortable prioritizing work across multiple stakeholders, and who can work across the analytics and data stack in order to solve problems. If this sounds like you, we would love to hear from you!
+
+To give you a sense of some specific projects you might work on, here are a few of our recent workstreams: understanding how users respond to new pricing & packaging, understanding and modeling drivers of expansion, analyzing the customer signup experience, measuring the performance of paid advertising campaigns, prioritizing the leads our sales team should reach out to, and many more.
+
+What will I be doing?
+Evaluating the performance of our go-to-market strategies and initiatives by analyzing customer funnels and metrics (new business, retention, CAC, LTV, churn, etc.)
+Partnering with go-to-market teams at Intercom to help them better understand their functional areas, build understanding and use of our data, and set a high bar for analytics across the organization
+Building data science models to accelerate the business by providing deeper insights into prospect and customer behaviors
+Creating dashboards that allow internal consumers to gain insight into the performance of their functional areas
+Constructing reusable data pipelines for company-wide use
+Monitoring the state of the business on a regular basis and generating data-driven hypotheses and action items in order drive business impact
+What skills do I need?
+4+ years of work experience in analytics/data science or a directly related field – some of which should be in a technology business
+A proven track record of initiating and delivering actionable analyses/recommendations in order to drive business impact
+An understanding of SaaS business models and key metrics
+Some experience building data science models to provide deeper insights
+Excellent communication skills (technical and non-technical) and comfort working with high-level stakeholders
+Ability to work autonomously in a dynamic environment
+Excellent SQL skills, fluency with BI/visualization tools, and deep knowledge of Excel, R, Python, or other analysis tools
+Strong critical reasoning skills, including understanding of common pitfalls of data analysis
+Benefits
+
+
+We are a well-treated bunch, with awesome benefits! If there's something important to you that's not on this list, talk to us! :)
+Competitive salary and meaningful equity
+Catered lunch every weekday, plus a variety of snack foods and a fully stocked kitchen
+Fully funded comprehensive medical, dental, and vision coverage
+Open vacation policy and 10 corporate holidays
+Paid Parental Leave Program
+401k plan
+In-office bicycle storage
+Fun events for Intercomrades, friends, and family!
+*Proof of eligibility to work in the United States is required.
+
+Intercom values diversity and is committed to a policy of Equal Employment Opportunity. Intercom will not discriminate against an applicant or employee on the basis of race, color, religion, creed, national origin, ancestry, sex, gender, age, physical or mental disability, veteran or military status, genetic information, sexual orientation, gender identity, gender expression, marital status, or any other legally recognized protected basis under federal, state, or local law.",3.8,"Intercom
+3.8","San Francisco, CA","San Francisco, CA",501 to 1000 employees,2011,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
