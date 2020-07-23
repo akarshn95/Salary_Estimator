@@ -6,6 +6,6 @@ import pandas as pd
 
 path = "/Users/AkarshNagaraj/Desktop/Projects/Data_Scientiest_Salaries/chromedriver"
 
-df = gs.get_jobs('data scientist', 5000, False, path, 15)
+df = gs.get_jobs('data scientist', 10, False, path, 15)
 
-df.to_csv('glassdoor_jobs.csv', index = False)
+df.to_csv('/Users/AkarshNagaraj/Desktop/glassdoor_jobs2.csv', index = False)
