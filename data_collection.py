@@ -8,4 +8,4 @@ path = "/Users/AkarshNagaraj/Desktop/Projects/Data_Scientiest_Salaries/chromedri
 
 df = gs.get_jobs('data scientist', 10, False, path, 15)
 
-df.to_csv('/Users/AkarshNagaraj/Desktop/glassdoor_jobs2.csv', index = False)
+df.to_csv('glassdoor_jobs2.csv', index = False)
