@@ -1,4 +1,4 @@
-# Data_Scientist_Salary_Predictor
+# Data Scientist Salary Predictor
 
-## Resources
+### Resources
 Glassdoor scraper : https://github.com/arapfaik/scraping-glassdoor-selenium
