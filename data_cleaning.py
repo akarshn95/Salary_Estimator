@@ -17,7 +17,7 @@ df['avg_salary'] = (df.min_salary+df.max_salary)/2
 
 # %%
 # parse company name; remove the rating in company name
-df['Rating']=df['Rating'].apply(int)
+df['Rating']=df['Rating'].apply(float)
 df['company_name'] = df.apply(lambda x: x['Company Name'] if x['Rating']<0 else x['Company Name'][:-3], axis=1)
 df['company_name'] = df['company_name'].apply(lambda x: x.replace('\n',''))
 #%%
