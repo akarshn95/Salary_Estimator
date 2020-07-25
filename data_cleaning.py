@@ -19,7 +19,7 @@ df['avg_salary'] = (df.min_salary+df.max_salary)/2
 # parse company name; remove the rating in company name
 df['Rating']=df['Rating'].apply(int)
 df['company_name'] = df.apply(lambda x: x['Company Name'] if x['Rating']<0 else x['Company Name'][:-3], axis=1)
-
+df['company_name'] = df['company_name'].apply(lambda x: x.replace('\n',''))
 #%%
 
 # get state from location
@@ -54,7 +54,44 @@ df['aws'] = df['Job Description'].apply(lambda x: 1 if 'aws' in x.lower() else 0
 df['excel'] = df['Job Description'].apply(lambda x: 1 if 'excel' in x.lower() else 0)
 df['tableau'] = df['Job Description'].apply(lambda x: 1 if 'tableau' in x.lower() else 0)
 df['sql'] = df['Job Description'].apply(lambda x: 1 if 'sql' in x.lower() else 0)
-# %%
 
+#%%
+# simplify and make job titles uniform
+
+def title_simplify(title):
+    if 'director' in title.lower():
+        return 'director'
+    if 'manager' in title.lower():
+        return 'manager'
+    if 'machine learning' in title.lower():
+        return 'mle'
+    if 'scientist' in title.lower() or 'data science' in title.lower():
+        return 'data scientist'
+    if 'analyst' in title.lower() or 'analytic' in title.lower():
+        return 'data analyst'
+    if 'data engineer' in title.lower():
+        return 'data engineer'
+    if 'architect' in title.lower() or 'model' in title.lower():
+         return 'data architect'
+    else:
+        return 'na'
+
+df['title_simple'] = df['Job Title'].apply(title_simplify)
+
+# senior position check
+def seniority(title):
+    if 'senior' in title.lower() or 'sr' in title.lower() or 'lead' in title.lower() or 'manager' in title.lower() or 'director' in title.lower():
+        return 1
+    else:
+        return 0
+
+df['seniority'] = df['Job Title'].apply(seniority)
+
+#%%
+# Job Description length and competitor count
+df['desc_len'] = df['Job Description'].apply(lambda x: len(x))
+df['num_comp'] = df['Competitors'].apply(lambda x: 0 if x=='-1' else len(x.split(',')))
+
+#%%
 # export to csv and store the cleaned data
 df.to_csv('glassdoor_jobs_cleaned.csv', index=False)
