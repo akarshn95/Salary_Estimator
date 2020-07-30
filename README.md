@@ -8,4 +8,17 @@ Glassdoor scraper : https://github.com/arapfaik/scraping-glassdoor-selenium
 
 ### Model
 The Machine Learning model predicts the average salary based on the following parameters:
-- d
+- Rating
+- Company Size
+- Type of Ownership, Indusrty, Sector
+- Number of competitors
+- Location
+- Skills required in job description
+
+## Model Performance 
+I initially used Linear Regression model to provide a baseline for comparison. Lasso regression is tuned and used with the best alpha value. Random Forest Regressor is tuned with GridSearchCV and the best parameters are used for fitting it.
+- Linear Regression - $19.77k 
+- Lasso Regression - $19.28k
+- Random Forest Regression - $14.98k
+
+The final model is a combination of Linear Regression and Random Forest Regression with an overall MAE of $14.33k. 
