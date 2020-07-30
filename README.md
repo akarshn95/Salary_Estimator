@@ -5,3 +5,7 @@ Built a data science salary predictor capable of making salary predictions based
 
 ### Resources
 Glassdoor scraper : https://github.com/arapfaik/scraping-glassdoor-selenium
+
+### Model
+The Machine Learning model predicts the average salary based on the following parameters:
+- d
