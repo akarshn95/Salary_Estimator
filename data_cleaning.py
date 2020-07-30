@@ -24,15 +24,6 @@ df['company_name'] = df['company_name'].apply(lambda x: x.replace('\n',''))
 
 # get state from location
 
-#temp = df['Location'].apply(lambda x: x[-2:]).unique()
-# cleaning rows which do not have state codes in their location
-df.iloc[807,5]='CA'
-df.iloc[377,5]='CO'
-df.iloc[817,5]='FL'
-df.iloc[[39,414],5]='UT'
-df.iloc[[79,702],5]='NJ'
-df.iloc[[40,296,303,343,383,461,487,592,678,681,722,816,858,876,879,950], 5] = 'rm'
-
 # dropping rows which do not have location
 df=df[df['Location']!='United States']
 
