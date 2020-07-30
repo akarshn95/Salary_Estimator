@@ -63,7 +63,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                     company_name = driver.find_element_by_xpath('.//div[@class="employerName"]').text
                     location = driver.find_element_by_xpath('.//div[@class="location"]').text
                     job_title = driver.find_element_by_xpath('.//div[contains(@class, "title")]').text
-                    job_description = driver.find_element_by_xpath('.//div[@class="jobDescriptionContent desc"]').text
+                    #job_description = driver.find_element_by_xpath('.//div[@class="jobDescriptionContent desc"]').text
                     collected_successfully = True
                 except:
                     time.sleep(5)
@@ -82,7 +82,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
             if verbose:
                 print("Job Title: {}".format(job_title))
                 print("Salary Estimate: {}".format(salary_estimate))
-                print("Job Description: {}".format(job_description[:500]))
+                #print("Job Description: {}".format(job_description[:500]))
                 print("Rating: {}".format(rating))
                 print("Company Name: {}".format(company_name))
                 print("Location: {}".format(location))
@@ -168,7 +168,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
 
             jobs.append({"Job Title": job_title,
                          "Salary Estimate": salary_estimate,
-                         "Job Description": job_description,
+                        # "Job Description": job_description,
                          "Rating": rating,
                          "Company Name": company_name,
                          "Location": location,
